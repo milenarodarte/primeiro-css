@@ -1,0 +1,14 @@
+span {
+    color: blue;
+}
+.background-blue {
+    color:white;
+    background-color: blue;
+}
+.background-black {
+    background-color: black;
+    color:white;
+}
+.text-center {
+    text-align: center;
+}
